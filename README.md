@@ -15,4 +15,4 @@ make
 
 In order to terminate the shell use ctrl+d. Using ctrl+c will not terminate the shell, but will terminate any currently running child processes and return control back to the prompt for user input. 
 
-Use 'make clean' to remove the simple_shell executable from the current directory.
+Use 'make clean' to remove the 'simple_shell' executable from the current directory.
